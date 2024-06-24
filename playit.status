@@ -1,0 +1,323 @@
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1719208696054 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+for-producers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719208699097 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+for-producers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719208702132 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+for-producers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719208705282 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+for-producers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719208708333 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+for-producers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719208711419 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+for-producers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(RequestError(Error { kind: SendRequest, source: Some(hyper::Error(Io, Kind(ConnectionReset))) }))
+[2J8[0mplayit (v0.15.13): 1719208720514 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+for-producers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719208723570 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+for-producers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719208726628 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+for-producers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719208729709 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+for-producers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719208732767 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+for-producers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719208735822 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+for-producers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719208738879 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+for-producers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719208741994 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+for-producers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719208745035 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+for-producers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719208748092 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+for-producers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719208751157 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+for-producers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719208754213 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+for-producers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719208757280 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+for-producers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719208760328 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+for-producers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719208763369 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+for-producers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719208766427 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+for-producers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719208769498 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+for-producers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719208772561 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+for-producers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719208775647 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+for-producers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719208778692 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+for-producers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719208781738 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+for-producers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719208784780 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+for-producers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719208787822 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+for-producers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719208790880 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+for-producers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719208793930 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+for-producers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719208796988 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+for-producers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719208800043 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+for-producers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719208803577 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+for-producers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719208806672 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+for-producers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719208809852 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+for-producers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719208812905 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+for-producers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719208815972 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+for-producers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719208819020 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+for-producers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719208822100 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+for-producers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719208825177 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+for-producers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719208828242 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+for-producers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719208831301 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+for-producers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719208834370 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+for-producers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719208837435 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+for-producers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719208840501 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+for-producers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719208843564 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+for-producers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719208847824 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+for-producers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719208851448 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+for-producers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719208854538 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+for-producers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719208857619 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+for-producers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719208860663 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+for-producers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719208863709 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+for-producers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719208866774 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+for-producers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719208869860 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+for-producers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719208872926 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+for-producers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719208876054 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+for-producers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719208879100 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+for-producers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719208882135 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+for-producers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719208885195 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+for-producers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719208888252 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+for-producers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719208891305 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+for-producers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719208894355 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+for-producers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1719208897435 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+for-producers.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
